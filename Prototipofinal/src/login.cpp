@@ -46,7 +46,7 @@ bool Login::validacion() {
     while (contintentos < maxintentos) {
         system("cls");
     cout << "+---------------------------------------------------------------------------------+" << endl;
-    cout << "+                      Bienvenido Al sistema Polideportivo                                    +" << endl;
+    cout << "+                      Bienvenido Al sistema De Habitaciones                             +" << endl;
     cout << "+---------------------------------------------------------------------------------+" << endl;
 
 

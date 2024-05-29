@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1716996611 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\bitacora.cpp
+1716997044 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\bitacora.cpp
 	<cstring>
 	"Bitacora.h"
 	"Login.h"
 
-1716996604 c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\include\bitacora.h
+1716997113 c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\include\bitacora.h
 	<iostream>
 	<fstream>
 	<string>
@@ -12,10 +12,10 @@
 	<cstring>
 	"usuarios.h"
 
-1716996816 c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\include\usuarios.h
+1716997044 c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\include\usuarios.h
 	<iostream>
 
-1716996512 c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\include\login.h
+1716997113 c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\include\login.h
 	<iostream>
 	<fstream>
 	<cstdlib>
@@ -26,16 +26,36 @@
 	"Bitacora.h"
 	"usuarios.h"
 
-1716996725 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\login.cpp
+1716997281 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\login.cpp
 	"Login.h"
 	"Bitacora.h"
 	"conio.h"
 
-1716996812 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\usuarios.cpp
+1716997044 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\usuarios.cpp
 	<iostream>
 	<fstream>
 	<iomanip>
 	"usuarios.h"
 	"Login.h"
 	"Bitacora.h"
+
+1716998789 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"Bitacora.h"
+	"usuarios.h"
+	"Login.h"
+	"habitaciones.h"
+
+1716998820 c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\include\habitaciones.h
+	"habitaciones.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
 

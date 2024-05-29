@@ -9,6 +9,7 @@
 #include "Bitacora.h"
 #include "usuarios.h"
 #include "Login.h"
+#include "habitaciones.h"
 using namespace std;
 
 //Funciones
@@ -52,7 +53,7 @@ void menuGeneral()
         system("cls");
         //Diseño del sistema
         cout << "\t\t\t-------------------------------" << endl;
-        cout << "\t\t\t|   SISTEMA DE GESTION UMG     |"<< endl;
+        cout << "\t\t\t|   SISTEMA DE GESTION HABITACIONES     |"<< endl;
         cout << "\t\t\t-------------------------------" << endl;
         cout << "\t\t\t 1. Catalogos" << endl;
         cout << "\t\t\t 2. Procesos" << endl;
@@ -135,6 +136,8 @@ void catalogos()
         {
         case 1:
         {
+            habitaciones habitacion1;
+            habitacion1.menuhabitaciones();
             break;
         }
 
