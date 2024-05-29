@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1716996611 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716996604 c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1716996816 c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\include\usuarios.h
+	<iostream>
+
+1716996512 c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1716996725 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\login.cpp
+	"Login.h"
+	"Bitacora.h"
+	"conio.h"
+
+1716996812 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\usuarios.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
