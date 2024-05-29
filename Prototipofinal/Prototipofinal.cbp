@@ -35,11 +35,13 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/Bitacora.h" />
+		<Unit filename="include/asignaciom_de_resultados.h" />
 		<Unit filename="include/habitaciones.h" />
 		<Unit filename="include/login.h" />
 		<Unit filename="include/usuarios.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Bitacora.cpp" />
+		<Unit filename="src/asignaciom_de_resultados.cpp" />
 		<Unit filename="src/habitaciones.cpp" />
 		<Unit filename="src/login.cpp" />
 		<Unit filename="src/usuarios.cpp" />

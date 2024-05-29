@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1716997044 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\bitacora.cpp
+1716999294 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\bitacora.cpp
 	<cstring>
 	"Bitacora.h"
 	"Login.h"
@@ -39,7 +39,7 @@
 	"Login.h"
 	"Bitacora.h"
 
-1716998789 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\main.cpp
+1717000864 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\main.cpp
 	<iostream>
 	<cstdlib>
 	<conio.h>
@@ -48,6 +48,7 @@
 	"usuarios.h"
 	"Login.h"
 	"habitaciones.h"
+	"asignaciom_de_resultados.h"
 
 1716998820 c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\include\habitaciones.h
 	"habitaciones.h"
@@ -58,4 +59,41 @@
 	<conio.h>
 	<iomanip>
 	<string>
+
+1716998931 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\habitaciones.cpp
+	"habitaciones.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"Bitacora.h"
+	"Login.h"
+
+1717000794 source:c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\src\asignaciom_de_resultados.cpp
+	"asignaciom_de_resultados.h"
+	"login.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<random>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"Bitacora.h"
+	"habitaciones.h"
+
+1717000036 c:\users\victo\onedrive\escritorio\prototipoefp12024\prototipofinal\include\asignaciom_de_resultados.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"asignaciom_de_resultados.h"
 

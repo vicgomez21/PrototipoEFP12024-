@@ -10,6 +10,7 @@
 #include "usuarios.h"
 #include "Login.h"
 #include "habitaciones.h"
+#include "asignaciom_de_resultados.h"
 using namespace std;
 
 //Funciones
@@ -76,7 +77,8 @@ void menuGeneral()
         //Opcion 1
         case 2:
             {
-
+                asignaciom_de_resultados asigna1;
+                asigna1.Menu();
                break;
             }
 
