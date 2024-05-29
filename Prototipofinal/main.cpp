@@ -57,7 +57,7 @@ void menuGeneral()
         cout << "\t\t\t-------------------------------" << endl;
         cout << "\t\t\t 1. Catalogos" << endl;
         cout << "\t\t\t 2. Procesos" << endl;
-        cout << "\t\t\t 3. Reportes" << endl;
+        cout << "\t\t\t 3. Seguridad" << endl;
         cout << "\t\t\t 4. Salir del Sistema" << endl;
         cout << "\t\t\t-------------------------------" << endl;
         cout << "\t\t\t|Opcion a escoger:[1/2/3/4/]  |" << endl;

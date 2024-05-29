@@ -54,7 +54,7 @@ void Bitacora::mostrarBitacora() {
 
     // Registra el ingreso del usuario actual en la bitácora
     Bitacora bitacora;
-    bitacora.ingresoBitacora(usuarioActual, "2000", "BIT");
+    bitacora.ingresoBitacora(usuarioActual, "5000", "BIT");
 
     // Limpiando la pantalla
     system("cls");
